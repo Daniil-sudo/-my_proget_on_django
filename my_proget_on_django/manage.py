@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-"""Django's command-line utility for administrative tasks."""
+"""Django's command-line utility for administrative tasks.
+для активации локального сервера cd my_proget_on_django, потом python manage.py runserver"""
 import os
 import sys
 
